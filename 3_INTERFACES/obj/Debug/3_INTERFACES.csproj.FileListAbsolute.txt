@@ -1,0 +1,9 @@
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\bin\Debug\3_INTERFACES.dll
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\bin\Debug\3_INTERFACES.pdb
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\bin\Debug\2_ENTIDADES.dll
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\bin\Debug\2_ENTIDADES.pdb
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\obj\Debug\3_INTERFACES.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\obj\Debug\3_INTERFACES.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\obj\Debug\3_INTERF.1CE580B4.Up2Date
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\obj\Debug\3_INTERFACES.dll
+C:\Users\Soporte\source\repos\DEMO1\3_INTERFACES\obj\Debug\3_INTERFACES.pdb

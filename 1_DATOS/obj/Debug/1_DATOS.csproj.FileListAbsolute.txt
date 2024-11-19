@@ -1,0 +1,6 @@
+C:\Users\Soporte\source\repos\DEMO1\1_DATOS\bin\Debug\1_DATOS.dll
+C:\Users\Soporte\source\repos\DEMO1\1_DATOS\bin\Debug\1_DATOS.pdb
+C:\Users\Soporte\source\repos\DEMO1\1_DATOS\obj\Debug\1_DATOS.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\DEMO1\1_DATOS\obj\Debug\1_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\DEMO1\1_DATOS\obj\Debug\1_DATOS.dll
+C:\Users\Soporte\source\repos\DEMO1\1_DATOS\obj\Debug\1_DATOS.pdb
