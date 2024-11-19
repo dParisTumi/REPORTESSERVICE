@@ -11,3 +11,16 @@ C:\Users\Soporte\source\repos\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.csproj.CoreCompi
 C:\Users\Soporte\source\repos\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.csproj.Up2Date
 C:\Users\Soporte\source\repos\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.dll
 C:\Users\Soporte\source\repos\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.pdb
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\4_LOGICA.dll
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\4_LOGICA.pdb
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\1_DATOS.dll
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\2_ENTIDADES.dll
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\3_INTERFACES.dll
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\1_DATOS.pdb
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\2_ENTIDADES.pdb
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\bin\Debug\3_INTERFACES.pdb
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.csproj.Up2Date
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.dll
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\4_LOGICA\obj\Debug\4_LOGICA.pdb

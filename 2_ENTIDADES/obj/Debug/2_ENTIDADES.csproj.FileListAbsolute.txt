@@ -4,3 +4,9 @@ C:\Users\Soporte\source\repos\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.csproj.Ass
 C:\Users\Soporte\source\repos\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.csproj.CoreCompileInputs.cache
 C:\Users\Soporte\source\repos\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.dll
 C:\Users\Soporte\source\repos\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.pdb
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\2_ENTIDADES\bin\Debug\2_ENTIDADES.dll
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\2_ENTIDADES\bin\Debug\2_ENTIDADES.pdb
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.dll
+C:\Users\ADMIN\Downloads\DEMO1\DEMO1\2_ENTIDADES\obj\Debug\2_ENTIDADES.pdb

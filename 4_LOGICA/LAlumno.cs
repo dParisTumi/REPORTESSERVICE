@@ -28,7 +28,13 @@ namespace _4_LOGICA
 
         public void guardar(Alumno alumno)
         {
-            
+            List<SqlParameter> param = new List<SqlParameter>();
+            param.Add(new SqlParameter("@NOM", alumno.Nombres));
+            param.Add(new SqlParameter("@APE", alumno.Apellidos));
+            string sql = "INSERT INTO ALUMNO (NOMBRES, APELLIDOS) VALUES (@NOM, @APE)";
+            DB dB = new DB();
+            dB.EjecutarOperacion(param, sql);
+
         }
 
         public void modificar(Alumno alumno)

@@ -7,7 +7,16 @@
             <hr />
             <table class="table">
                 <tr>
-                    <td>ID</td> <td>ID</td> 
+                    <%
+                        foreach (System.Data.DataColumn item in data.Tables[0].Columns)
+                        { 
+                    %>
+                    <td>
+                        <% = item  %>
+                    <td>
+                        <%
+                        }
+                    %> 
                 </tr>
                 <%
                     foreach (System.Data.DataRow item in data.Tables[0].Rows)

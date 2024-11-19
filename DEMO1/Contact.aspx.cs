@@ -1,4 +1,6 @@
-﻿using System;
+﻿using _2_ENTIDADES;
+using _4_LOGICA;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +13,14 @@ namespace DEMO1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            btnGuardar.Click += (s, a) =>
+            {
+                Alumno alumno = new Alumno();
+                alumno.Nombres = txtNombres.Text;
+                alumno.Apellidos = txtApellidos.Text;
+                new LAlumno().guardar(alumno);
+                Response.Redirect("Default.aspx");
+            };
         }
     }
 }
